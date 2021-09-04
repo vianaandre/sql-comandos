@@ -1,0 +1,1 @@
+## Comandos SQL para manipulaçao de tabelas no banco de dados MySQL
